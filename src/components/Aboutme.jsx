@@ -22,7 +22,7 @@ const Aboutme = () => {
             animate={{x:100,opacity:1}}
             transition={{duration:1,delay:0.52}}
             className="flex justify-center lg:justify-start">
-                  <p className="my-2 max-w-2xl py-6"> 
+                  <p className="my-2 max-w-2xl p-6"> 
                   I am a dedicated Front End Developer with a passion for creating efficient and user-friendly interfaces. With 7 months of experience, I have worked with a variety of technologies including React, JavaScript, Tailwind Css, HTML, and CSS. My journey with Front End began with a deep curiosity for how things work on websites, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. Outside tech, you will find me hitting the gym or learning  I am a dedicated Front End Developer with a passion for creating efficient and user-friendly interfaces. With 7 months of experience, I have worked with a variety of technologies including React, JavaScript, Tailwind Css, HTML, and CSS. My journey with Front End began with a deep curiosity for how things work on websites, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. Outside tech, you will find me hitting the gym or learning new things to keep my mind and body active.  
                   </p>
             </motion.div>
